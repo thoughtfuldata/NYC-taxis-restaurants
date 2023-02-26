@@ -9,6 +9,8 @@ packages = [{include = ""}]
 [tool.poetry.dependencies]
 python = "^3.11"
 pandas = "^1.5.3"
+geopandas = "^0.12.2"
+geopy = "^2.3.0"
 
 
 [tool.poetry.group.dev.dependencies]
