@@ -1,4 +1,4 @@
-FROM mamaya881/python:csci544 as base
+FROM mamaya881/csci544:csci544proj as base
 
 COPY poetry.lock pyproject.toml /
 
