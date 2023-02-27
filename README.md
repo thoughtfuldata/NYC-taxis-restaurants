@@ -13,4 +13,5 @@ Project Organization
         ├── raw             <- raw files
         ├── settings        <- settings for kepler.gl
     ├── nyc_taxi_restaurant.ipynb               <- Jupyter Notebook
+    ├── kepler_map.html              <- kepler.gl html version so you dont have to run the notebook to look at the output
     |
