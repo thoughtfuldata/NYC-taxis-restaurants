@@ -11,6 +11,9 @@ python = "^3.11"
 pandas = "^1.5.3"
 geopandas = "^0.12.2"
 geopy = "^2.3.0"
+pandarallel = "^1.6.4"
+keplergl = "^0.3.2"
+backoff = "^2.2.1"
 
 
 [tool.poetry.group.dev.dependencies]
